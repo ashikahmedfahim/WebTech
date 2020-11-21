@@ -10,8 +10,8 @@
 <body>
     <div class="bodyBG">
         <div class="container">
-            <header>
-            
+            <header class="header">
+                <?php  include('header.php');  ?>
             </header>
             <main>
                 <div class="mainDiv1">
@@ -38,8 +38,8 @@
                 </div>
             
             </main>
-            <footer>
-            
+            <footer class="footer">
+                <?php  include('footer.php');  ?>
             </footer>
         </div>
     </div>
