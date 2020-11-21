@@ -45,7 +45,7 @@
                         <div class="card">
                             <div class="">
                                 <h3><b>Refund Requests</b></h3> 
-                                <a href="" class="homeMainDivCardA">Click here to Go →</a>
+                                <a href="refundRequest.php" class="homeMainDivCardA">Click here to Go →</a>
                             </div>    
                         </div>
                         <div class="card">
@@ -63,7 +63,7 @@
                         <div class="card">
                             <div class="">
                                 <h3><b>Budget/Expense</b></h3> 
-                                <a href="" class="homeMainDivCardA">Click here to Go →</a>
+                                <a href="budgetExpense.php" class="homeMainDivCardA">Click here to Go →</a>
                             </div>    
                         </div>
                     </div>

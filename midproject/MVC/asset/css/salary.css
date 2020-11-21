@@ -1,0 +1,36 @@
+.salaryMainDivForm{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+.salaryMainDivFormButton{
+    margin-top: 3%;
+    margin-bottom: 10%;
+    margin-left: 7%;
+    font-size: 20px;
+    background-color: #2ECC71 ;
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-decoration: none;
+}
+.MainDivTable{
+    color: white;
+    font-size: 20px;
+}
+.MainDivTableCol{
+    padding-right: 40px;
+    padding-left: 60px;
+}
+.MainDivTableRow{
+    height: 50px;
+}
+.mainDivTableHeader{
+    font-size: 25px !important;
+    color: paleturquoise;
+}
+.mainDivFormLabelOk{
+    padding-left: 330px !important;
+    font-size: 30px !important;
+    padding-top: 30px !important;
+}
