@@ -1,2 +1,2 @@
 # WebTech
-University project 
+University Tasks
